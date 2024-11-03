@@ -5,10 +5,8 @@
 I'm a Software Engineer, Security Enthusiast, and IT Specialist who is currently a Master's Student at Carnegie Mellon University Majoring in Software Engineering and Cyber Security. I'm passionate about sharing knowledge, documentation, Software engineering, Network Security, cloud operations and others.
 **Here's a quick summary about me**:
 
-- 😊 Pronouns: He | Him | Hero
-- 🌱 I’m currently learning Bash, Java, and JavaScript.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Back-end Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Back-end Engineer (Mid level).
 - 📫 You can contact me by emailing okemawo@gmail.com.
 
 ---
